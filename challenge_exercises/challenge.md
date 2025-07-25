@@ -1,0 +1,3 @@
+**Challenge: Advanced Looping**
+- Write a method that prints all numbers from 1 to 100 that are divisible by both 3 and 5, but do not use arrays or the `.each` method—use only a `while`, `until`, or `for` loop.
+- Create a custom class (e.g., `Team` or `BookList`) and make it fully compatible with Ruby's Enumerable methods by implementing the `each` method and including the `Enumerable` module. Demonstrate at least two Enumerable methods (like `map`, `select`, or `find`) on your class.
